@@ -51,6 +51,12 @@ You can name your car folder anything you want.
 # To Pull an image with donkeycar installed with all types of cars created under mycars
 ### ```docker pull ghcr.io/ucsd-ecemae-148/donkeycontainer:donkey_built```
 
+# To start the container run the start script
+### ```./run.sh```
 
+## Once inside the container you will see a directory named mycars
+
+###
+```cd mycars```
 
 
